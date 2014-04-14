@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "scroll/scroll_metalfence003a"
+	"$translucent" 1
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 5.0
+			"texturescrollangle" 180
+		}
+	}
+}

@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "scroll/scroll_gravelfloor002b"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 5.0
+			"texturescrollangle" 90
+		}
+	}
+}

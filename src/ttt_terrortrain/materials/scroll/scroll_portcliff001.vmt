@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "scroll/scroll_portcliff001"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 5.0
+			"texturescrollangle" 180
+		}
+	}
+}
